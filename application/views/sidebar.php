@@ -12,7 +12,7 @@
           <img src="<?php echo base_url(); ?>assets/dist/img/L.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Ahmad M Huda</a>
+          <a href="#" class="d-block">Rio Ferdiansyah</a>
         </div>
       </div>
 
